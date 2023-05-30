@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9fa5dd35-5b81-405b-9369-824a7dc8a9a9/resourceGroups/Wsptoolchecker_group/providers/Microsoft.Web/sites/Wsptoolchecker",
+    "appService.deploySubpath": "."
+}
