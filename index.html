@@ -91,8 +91,8 @@
          const pieChartCanvas = document.getElementById('pie-chart');
          
          // Fetch data from the API endpoint
-         fetch('http://localhost:3000/api/data')
-         //fetch('https://testwsptool.azurewebsites.net/api/data')
+         //fetch('http://localhost:3000/api/data')
+         fetch('https://testwsptool.azurewebsites.net/api/data')
            .then(response => response.json())
            .then(data => {
              // Generate the table rows dynamically
